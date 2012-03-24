@@ -1,0 +1,5 @@
+Alright guys, This is the git repository we're gonna use for the project.
+It may be better if we append all out programming update notes to this readme file.
+
+NOTE: Seeing as we are speaking about our updates in this README, commit messages will have the following format:
+		commit -a -m "See Update XX-XX-XXXX -My Name"
