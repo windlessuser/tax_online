@@ -25,7 +25,6 @@ class ExcelModel extends CI_Model {
 		$data[$excelObj->getCell('A25')->getValue()] = $excelObj->getCell('E25')->getCalculatedValue();
 		
 		return $data;
-	
 	}
 
 }
